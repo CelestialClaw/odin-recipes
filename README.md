@@ -1,0 +1,1 @@
+This project is about making an HTML website about recipes or something idk. I will make a boilerplate for HTML, utilize lists, links, images, and other stuff wow.
